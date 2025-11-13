@@ -1,34 +1,50 @@
-# Tag Game
+# 🏷️ Tag Game
 
-### This is a **Tag game** where there are two players - Red and Blue.
-The players move with **WASD** and **Arrow Keys** (explained in the game's controls screen)
-The player with the red arrow is **IT** and must touch the other player to remove the arrow.
-The person with the IT Arrow at the end of the timer loses.
+### A chaotic 2-player **Tag** game — Red vs Blue!
+Move around with **WASD** and **Arrow Keys** (explained in the in-game Controls screen).  
+The player with the **red arrow** is *IT* — tag the other player to pass it on.  
+Whoever’s *IT* when the timer ends... loses 💀  
 
-#### What libraries are required?
-  1. PyGame
+---
 
-#### How to run?
-Make sure the file structure stays intact and run **main.py**
+#### 🧰 Requirements
+1. **PyGame**
 
-### Want to run easily?
-Don't have Python, or don't wanna sit here downloading all the dependencies?
-Download the .exe version [here](https://github.com/WTRMLNv1/Tag/releases/tag/v1.0)! No Python or libraries required (Windows only)
+---
 
-#### Feature:
-  1. 2 maps available: the snowy map and the savanna map
-  2. Pressing T makes the Red player move faster for 10 seconds. Pressing M makes the Blue player move faster for 10 seconds
-  3. Portals appear every 30 seconds, teleporting the players.
-  4. Hidden platform in both maps.
+#### ▶️ How to Run
+Keep the file structure intact and run **main.py**.
 
-#### Features in progress:
-  1. Random Buff spawning every 30 seconds. It can be good like (speed, jump-boost, immunity to being it, etc) or bad like (slowness, get it without the other person touching, etc)
-  2. More maps
+---
 
-#### Bugs:  
-  1. No barriers on the side wall
-  2. Touching the side of a platform makes your character go above the platform or below the platform
-  3. When walking off the platform, the game thinks you are still on the ground and lets you jump midair (but the player is still affected by gravity) - Will not be fixed even though I can (I like it)
+### ⚡ Want to Play Instantly?
+Don’t have Python, or don’t wanna sit here downloading dependencies?  
+Download the **.exe version** 👉 [here](https://github.com/WTRMLNv1/Tag/releases/tag/v1.0)!  
+*(No Python or libraries required — Windows only)*
 
+---
+
+#### 🎮 Features
+1. Two maps: **Snowy** and **Savanna**  
+2. **Power-ups** —  
+   - Red: press **T** for 10s speed boost  
+   - Blue: press **M** for 10s speed boost  
+3. **Portals** appear every 30s to teleport players  
+4. Hidden platforms 👀  
+
+---
+
+#### 🧪 In Progress
+1. Random buffs every 30s — can be good (*speed, jump boost, immunity*) or bad (*slowness, forced IT*, etc.)  
+2. More maps coming soon  
+
+---
+
+#### 🐛 Known Bugs
+1. No barriers on side walls  
+2. Touching the side of a platform can clip you above/below  
+3. You can jump midair after walking off — *“feature,” not a bug 😎*  
+
+---
 
 Made with ❤️, debugged with 😭 by **WTRMLNv1**
