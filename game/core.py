@@ -160,7 +160,8 @@ def load_map(selected_map, images_path):
             Platform(400, 550, 150, 20, str(images_path / "151.png")),
             Platform(950, 300, 150, 20, str(images_path / "151.png")),
             Platform(150, 300, 150, 20, str(images_path / "151.png")),
-            Platform(1050, 300, 150, 20, str(images_path / "151.png")),
+            Platform(150, 300, 150, 20, str(images_path / "151.png")),
+            Platform(800, 170, 150, 20, str(images_path / "151.png")),
         ]
     return bg, platforms
 
