@@ -11,6 +11,9 @@ The person with the IT Arrow at the end of the timer loses.
 #### How to run?
 Make sure the file structure stays intact and run **main.py**
 
+### Want to run easily?
+Don't have Python, or don't wanna sit here downloading all the dependencies?
+Download the .exe version [here](https://github.com/WTRMLNv1/Tag/releases/tag/v1.0)! No Python or libraries required (Windows only)
 
 #### Feature:
   1. 2 maps available: the snowy map and the savanna map
@@ -28,4 +31,4 @@ Make sure the file structure stays intact and run **main.py**
   3. When walking off the platform, the game thinks you are still on the ground and lets you jump midair (but the player is still affected by gravity) - Will not be fixed even though I can (I like it)
 
 
-Made with ❤️, debugged with 😭 by Ansh
+Made with ❤️, debugged with 😭 by **WTRMLNv1**
